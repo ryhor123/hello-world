@@ -3,4 +3,3 @@
 Привет!
 Тест гита.
 YRYRYY
-FHDHHSKS
